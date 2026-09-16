@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: jcats57@yahoo.com, jameselkview@aol.com
-At: 2026-09-16 13:45:21
-Id: 3yoqICId
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: lovelily77@yahoo.com, inez_inc@yahoo.com
+At: 2026-09-16 13:46:00
+Id: Qmmypsj1
